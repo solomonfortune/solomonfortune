@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Solomon Buwule
+# 👋 Hey there! I'm Solomon Fortune Buwule
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 
 I'm a **Full Stack Developer** with a passion for crafting beautiful, responsive user interfaces and building robust backend systems. While I excel at front-end development, I'm committed to becoming a well-rounded developer. I'm deeply passionate about **Open Source Software Development** and believe in the power of collaborative, transparent development.
 
-When I'm not coding, you'll find me cheering on my favorite football teams! ⚽🏈
+When I'm not coding, you'll find me cheering on my favorite football teams! (Liverpool FC and the Baltimore Ravens)⚽🏈
 
 ---
 
