@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full Stack Developer** | 🎨 Front-End Enthusiast | 💻 Open Source Advocate
+  **Front-end Developer** | 🎨 Front-End Enthusiast | 💻 Open Source Advocate
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-buwule-b139a4320)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomonbuwule@gmail.com)
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with a passion for crafting beautiful, responsive user interfaces and building robust backend systems. While I excel at front-end development, I'm committed to becoming a well-rounded developer. I'm deeply passionate about **Open Source Software Development** and believe in the power of collaborative, transparent development.
+I'm a **Front-end Stack Developer** with a passion for crafting beautiful, responsive user interfaces and building robust backend systems. While I excel at front-end development, I'm committed to becoming a well-rounded developer. I'm deeply passionate about **Open Source Software Development** and believe in the power of collaborative, transparent development.
 
 When I'm not coding, you'll find me cheering on my favorite football teams! (Liverpool FC and the Baltimore Ravens)⚽🏈
 
