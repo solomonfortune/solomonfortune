@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Front-end Stack Developer** with a passion for crafting beautiful, responsive user interfaces and building robust backend systems. While I excel at front-end development, I'm committed to becoming a well-rounded developer. I'm deeply passionate about **Open Source Software Development** and believe in the power of collaborative, transparent development.
+I'm a **Front-end Stack Developer** with a passion for crafting beautiful, responsive user interfaces and building robust backend systems. While I excel at front-end development, I'm committed to becoming a full-stack developer.
 
 When I'm not coding, you'll find me cheering on my favorite football teams! (Liverpool FC and the Baltimore Ravens)⚽🏈
 
@@ -40,6 +40,7 @@ When I'm not coding, you'll find me cheering on my favorite football teams! (Liv
 
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
