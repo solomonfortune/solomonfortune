@@ -15,7 +15,7 @@
 
 ## 🚀 Quick Intro
 
-Crafting **beautiful, responsive UIs** and **robust full-stack solutions**. Passionate about **open-source**, **modern web tech**, and **collaborative development**. When I'm not coding, you'll catch me cheering for Liverpool FC and the Baltimore Ravens! ⚽🏈
+Crafting **beautiful, responsive UIs** and **robust full-stack solutions**. Passionate about **open-source**, **modern web tech**, and **collaborative development**. When I'm not coding, you'll catch [...]
 
 ---
 
@@ -25,24 +25,50 @@ Crafting **beautiful, responsive UIs** and **robust full-stack solutions**. Pass
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages
 
 <div align="center">
 
-**Languages** 🔤
-```
-Java | JavaScript | Python | C
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**Frontend** 🎨
-```
-React | HTML5 | CSS3
-```
+</div>
 
-**Backend & Tools** ⚙️
-```
-Node.js | Django | Firebase | MongoDB | SQL
-```
+---
+
+## 🎨 Frontend Technologies
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## ⚙️ Backend & Frameworks
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 💾 Databases & Tools
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
