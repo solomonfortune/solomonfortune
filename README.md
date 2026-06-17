@@ -1,27 +1,22 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0891b2&height=120&section=header&animation=fadeIn" width="100%" />
-
 # Solomon Fortune Buwule
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI+%2F+UX+Enthusiast;Full+Stack+Builder;Open+Source+Advocate" alt="Typing SVG" />
 </a>
-
 <br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-buwule-b139a4320)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:solomonbuwule@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=solomon-buwule&style=flat-square&color=0891b2&label=visitors)](https://github.com/solomon-buwule)
-
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pIojecu0/giphy.gif" width="200px" />
+</div>
 
 ### `> about_me.sh`
-
 I craft **pixel-perfect, responsive interfaces** and **full-stack solutions** that feel as good as they look. I'm drawn to open source, clean architecture, and the kind of collaborative work where ideas compound.
 
 Outside the editor — you'll find me on the pitch. ⚽
@@ -65,6 +60,8 @@ Status    →  Building in public
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+---
 
 <div align="center">
 
