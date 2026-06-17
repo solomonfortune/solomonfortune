@@ -32,7 +32,7 @@
 
 I craft **pixel-perfect, responsive interfaces** and **full-stack solutions** that feel as good as they look. I'm drawn to open source, clean architecture, and the kind of collaborative work where ideas compound.
 
-Outside the editor — you'll find me on the pitch. ⚽
+Outside the editor — you'll find me cheering on Liverpool FC and the Baltimore Ravens.
 
 ```
 Location  →  Uganda 🇺🇬
