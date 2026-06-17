@@ -72,12 +72,12 @@ Status    →  Building in public
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=solomon-buwule&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon-buwule&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=solomonfortune&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonfortune&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=solomon-buwule&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=solomonfortune&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4)](https://git.io/streak-stats)
 
 </div>
 
