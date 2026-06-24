@@ -16,9 +16,6 @@
 <a href="mailto:solomonbuwule@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/solomonfortune">
-  <img src="https://komarev.com/ghpvc/?username=solomonfortune&style=flat-square&color=0891b2&label=visitors" />
-</a>
 
 <br/><br/>
 
