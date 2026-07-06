@@ -5,7 +5,7 @@
 ## Solomon Fortune Buwule
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI+%2F+UX+Enthusiast;Aspiring Banckend DEV too" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI+%2F+UX+Enthusiast;Aspiring+Banckend+DEV+too" />
 </a>
 
 <br/>
