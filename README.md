@@ -12,7 +12,7 @@
 
 ### `> about_me.sh`
 
-I craft pixel-perfect, responsive interfaces and full-stack solutions, drawn to open source and clean architecture. 📍 Uganda &nbsp;·&nbsp; Focus: Web, Cloud & Open Source &nbsp;·&nbsp; Status: Building in public
+I craft pixel-perfect, responsive interfaces and full-stack solutions, drawn to open source and clean architecture. I'm in Kampala, Uganda &nbsp;·&nbsp; Focus: Web, Cloud & Open Source &nbsp;·&nbsp; Status: Building in public
 
 ### `> stack.json`
 
