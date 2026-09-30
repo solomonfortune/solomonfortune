@@ -12,42 +12,29 @@
 
 ### `> about_me.sh`
 
-I craft **pixel-perfect, responsive interfaces** and **full-stack solutions** that feel as good as they look. I'm drawn to open source, clean architecture, and the kind of collaborative work. Outside the editor, you will find me cheering on Liverpool FC and the Baltimore Ravens.
-
-```
-Location  →  Uganda 🇺🇬
-Focus     →  Web, Cloud & Open Source
-Status    →  Building in public
-```
-
----
+I craft pixel-perfect, responsive interfaces and full-stack solutions, drawn to open source and clean architecture. 📍 Uganda &nbsp;·&nbsp; Focus: Web, Cloud & Open Source &nbsp;·&nbsp; Status: Building in public
 
 ### `> stack.json`
 
 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" height="36" />
 
 **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,py,django,java,spring,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,py,django,java,spring,php" height="36" />
 
 **Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase" height="36" />
 
 **Data Science**
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" title="Jupyter" /> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" title="Scikit-Learn" />
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="36" height="36" alt="Jupyter" title="Jupyter" /> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-Learn" title="Scikit-Learn" />
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=js,py,java,c,bash,ts,php" />
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=docker,postman,git" />
+**Other**
+<img src="https://skillicons.dev/icons?i=docker,postman,git,c,bash" height="36" />
 
 ---
 
 <div align="center">
 
-*Open to collaborations, cool side-projects, and conversations about tech.*
-
-**Star something you find useful — it keeps the lights on.** ⭐
+*Open to collaborations, cool side-projects, and conversations about tech.* &nbsp;·&nbsp; **Star something you find useful ⭐**
 
 </div>
