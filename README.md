@@ -12,24 +12,19 @@
 
 ### `> about_me.sh`
 
-I craft pixel-perfect, responsive interfaces and full-stack solutions, drawn to open source and clean architecture. I'm in Kampala, Uganda &nbsp;·&nbsp; Focus: Web, Cloud & Open Source &nbsp;·&nbsp; Status: Building in public
+I craft pixel-perfect, responsive interfaces and full-stack solutions, drawn to open source and clean architecture. 📍 Uganda &nbsp;·&nbsp; Focus: Web, Cloud & Open Source &nbsp;·&nbsp; Status: Building in public
 
 ### `> stack.json`
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" height="36" />
+**Frontend** &nbsp;<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" height="36" align="absmiddle" />
 
-**Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,py,django,java,spring,php" height="36" />
+**Backend** &nbsp;<img src="https://skillicons.dev/icons?i=nodejs,py,django,java,spring,php" height="36" align="absmiddle" />
 
-**Databases**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase" height="36" />
+**Databases** &nbsp;<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,firebase,supabase" height="36" align="absmiddle" />
 
-**Data Science**
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="36" height="36" alt="Jupyter" title="Jupyter" /> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-Learn" title="Scikit-Learn" />
+**Data Science** &nbsp;<img src="https://cdn.simpleicons.org/jupyter/F37626" width="36" height="36" alt="Jupyter" title="Jupyter" align="absmiddle" /> <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-Learn" title="Scikit-Learn" align="absmiddle" />
 
-**Other**
-<img src="https://skillicons.dev/icons?i=docker,postman,git,c,bash" height="36" />
+**Other** &nbsp;<img src="https://skillicons.dev/icons?i=docker,postman,git,c,bash" height="36" align="absmiddle" />
 
 ---
 
